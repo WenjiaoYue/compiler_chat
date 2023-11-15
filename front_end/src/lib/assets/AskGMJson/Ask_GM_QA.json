@@ -1,0 +1,59 @@
+{
+    "Overview": [
+        {
+            "question": "What are Key Features of Intel® oneAPI DPC++C++ Compiler?"
+        },
+        {
+            "question": "What are Key Sections of Intel® oneAPI DPC++C++ Compiler?"
+        },
+        {
+            "question": "What is Clang Option Support of Intel® oneAPI DPC++C++ Compiler?"
+        },
+        {
+            "question": "What is Notices and Important Information of Intel® oneAPI DPC++C++ Compiler?"
+        }
+        
+    ],
+    "AOT": [
+        {
+            "question": "What are AOT Compilation Supported Options for OpenMP?"
+        },
+        {
+            "question": "How to use AOT in Microsoft Visual Studio?"
+        },
+        {
+            "question": "What are Prerequisites to target a GPU with the AOT feature?"
+        },
+        {
+            "question": "What Intel GPUs are Required for Accelerators?"
+        }
+    ],
+    "IPO": [
+        {
+            "question": "What compilation models does IPO support?"
+        },
+        {
+            "question": "What is the whole Program Analysis of IPO?"
+        },
+        {
+            "question": "Why does some Interprocedural Optimization (IPO) require the results of the object reader method?"
+        },
+        {
+            "question": "Why does some Interprocedural Optimization (IPO) require the results of the table method?"
+        }
+    ],
+    "Introduction": [
+        {
+            "question": "What architecture does the Intel® oneAPI DPC++C++ Compiler support?"
+        },
+        {
+            "question": "What operating systems does the Intel® oneAPI DPC++C++ Compiler support?"
+        },
+        {
+            "question": "What IDE does the Intel® oneAPI DPC++C++ Compiler support on windows only?"
+        },
+        {
+            "question": "What Standards does the Intel® oneAPI DPC++C++ Compiler support?"
+        }
+    ]
+}
