@@ -90,6 +90,7 @@
 			type,
 			blob,
 			filename,
+			knowledgeContent,
 			translatedQuery
 		);
 		eventSource.addEventListener("error", handleError);
